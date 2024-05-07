@@ -18,3 +18,8 @@ After narrowing down the feature set, we will retrain the multiple linear regres
 Once the streamlined model is developed, we will validate its performance on a separate dataset to assess its robustness and generalizability. Additionally, we will conduct A/B testing to compare the efficiency of the streamlined pricing process with the previous one, measuring key metrics such as sales cycle duration and revenue impact.
 4.Documentation and Implementation: 
 Finally, we will document the revised pricing model, including the selected features, model coefficients, and performance metrics. This documentation will serve as a reference for our sales team and other stakeholders. We will also provide training and support to ensure the smooth implementation of the streamlined pricing process.
+
+Linear Regression Problem
+Result: 
+R^2: 0.916353220706504 
+RMSE: 2658.86981888902
